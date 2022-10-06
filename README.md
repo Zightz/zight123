@@ -12,7 +12,7 @@ RunService.Heartbeat:Connect(function()
     end)
 end)
 
-                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/uzisama22/earthW/main/silentaimbot2", true))()
+                                local Aiming = loadstring(game:HttpGet("", true))()
                             Aiming.TeamCheck(false)
                              
                             
